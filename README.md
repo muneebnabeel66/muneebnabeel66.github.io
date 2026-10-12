@@ -2,4 +2,4 @@
 
 Personal portfolio website of Muneeb Nabeel, Data Scientist.
 
-Live site: https://muneebnabeel6.github.io
+Live site: https://muneebnabeel66.github.io
